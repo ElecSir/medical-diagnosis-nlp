@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+torch
+streamlit
+matplotlib
+seaborn
+lxml
+pytest
+ruff
+jupyter
